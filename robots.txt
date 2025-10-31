@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://joan561.github.io/mywebiste/sitemap.xml
